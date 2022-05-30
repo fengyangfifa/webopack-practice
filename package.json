@@ -1,0 +1,25 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "关于 webpack 的一些实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyangfifa/webpack-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyangfifa/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/fengyangfifa/webpack-practice#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
